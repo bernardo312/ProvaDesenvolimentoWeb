@@ -1,0 +1,81 @@
+body{
+	background-image: url("https://gamarevista.com.br/wp-content/uploads/2020/08/gif1.gif");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color:Gainsboro;
+	font-family: Times New Roman,Serif;
+}
+h1{
+	background-color: #000000;
+	color: white;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: black;
+	border-width: 2px;
+	padding: 6px;
+	margin : 10px;
+	font-size: 220%;
+
+
+}
+h2{
+	background-color: #000000;
+	color: white;
+	border-style: solid;
+	border-radius: 15px;
+	border-color: black;
+	border-width: 2px;
+	padding: 2px;
+	font-size: 150%;
+
+
+}
+h3{
+	background-color: Gainsboro;
+	border-style: solid;
+	border-radius: 15px;
+	border-color:#808080;
+	padding: 30px;
+	margin : 30px;
+	font-weight: normal;
+
+
+}
+img {
+  
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+  	border-radius: 8px;
+	border-color: black;
+	border-width: 2px;
+  	width: 40%;
+	transition: 2s;
+
+}
+img:hover{
+	border-width: 6px;
+	border-style: solid;
+	border-color: black;
+	border-radius:15px;
+	width: 45%;
+}
+button{
+	background-color:black;
+	color: white;
+	border-radius:20px;
+	padding: 1em;
+	margin: 1em;
+	font-family: Courier New,monospace;
+	transition: 1.5s;
+}
+button:hover{
+	background-color: PaleGreen;
+	color: Black;
+	font-size: 100%;
+	border-radius:20px;
+	font-family: Courier New,monospace;
+}
+
